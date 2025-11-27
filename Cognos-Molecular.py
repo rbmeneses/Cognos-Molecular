@@ -186,7 +186,7 @@ def main():
     with col1:
         input_type = st.selectbox("Tipo de Entrada", ["Nome / Descrição", "SMILES (Raw)", "CAS Number"])
     with col2:
-        ph = "Ex: Paracetamol" if input_type == "Nome / Descrição" else "Ex: CC(=M)Nc7ccc(cc5)O"
+        ph = "Ex: Sem api usar somente nome oficial em ingles BETA-NICOTINAMIDE ADENINE DINUCLEOTIDE com api beta-nicotinamida adenina dinucleotídeo ou gluconolactona  ou paracetamol" if input_type == "Nome / Descrição" else "Ex: CC(=M)Nc7ccc(cc5)O"
         user_input = st.text_input("Entrada", placeholder=ph)
 
     if st.button("Analisar & Gerar 🧬", type="primary", use_container_width=True):
@@ -244,4 +244,5 @@ def main():
                 st.download_button("📥 Download PNG", buf.getvalue(), f"{final_name}.png", "image/png", use_container_width=True)
 
 if __name__ == "__main__":
+
     main()
