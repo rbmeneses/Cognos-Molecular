@@ -15,7 +15,7 @@
 ---
 </div>
 
-## 📖 Sobre o Projeto
+## 📖 Sobre o Projeto https://cognos-molecular.streamlit.app/
 
 **Cognos Molecular AI** é uma ferramenta de quimioinformática desenvolvida para bridging a lacuna entre descrições textuais e estruturas químicas precisas. Utilizando **Google Gemini 3.0**, o sistema interpreta entradas complexas ou teóricas e as converte em estruturas visuais (SMILES), permitindo salvar, catalogar e exportar sua própria biblioteca molecular.
 
