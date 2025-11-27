@@ -2,7 +2,7 @@
 
 # 🧪 Cognos Molecular AI
 ### Database Edition
-
+**Faça uma doação** 21980892973
 **Explore, Gere e Catalogue Moléculas com o poder da IA Generativa e RDKit.**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
@@ -17,7 +17,7 @@
 
 ## 📖 Sobre o Projeto
 
-**Cognos Molecular AI** é uma ferramenta de quimioinformática desenvolvida para bridging a lacuna entre descrições textuais e estruturas químicas precisas. Utilizando **Google Gemini 2.5**, o sistema interpreta entradas complexas ou teóricas e as converte em estruturas visuais (SMILES), permitindo salvar, catalogar e exportar sua própria biblioteca molecular.
+**Cognos Molecular AI** é uma ferramenta de quimioinformática desenvolvida para bridging a lacuna entre descrições textuais e estruturas químicas precisas. Utilizando **Google Gemini 3.0**, o sistema interpreta entradas complexas ou teóricas e as converte em estruturas visuais (SMILES), permitindo salvar, catalogar e exportar sua própria biblioteca molecular.
 
 Seja para estudantes testando estruturas hipotéticas ou pesquisadores organizando compostos, o Cognos oferece uma interface visual limpa e persistência de dados local.
 
@@ -47,8 +47,8 @@ Siga os passos abaixo para configurar o ambiente:
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/seu-usuario/cognos-molecular-ai.git](https://github.com/seu-usuario/cognos-molecular-ai.git)
-cd cognos-molecular-ai
+git clone [https://github.com/seu-usuario/cognos-molecular.git](https://github.com/seu-usuario/cognos-molecular.git)
+cd cognos-molecular
 
 # 2. Crie um ambiente virtual (Opcional, mas recomendado)
 python -m venv venv
